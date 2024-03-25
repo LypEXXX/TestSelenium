@@ -1,0 +1,4 @@
+webdriver.driver = Chrome
+webdriver.path = C://drivers//
+webdriver.user = test
+webdriver.pass = secret
